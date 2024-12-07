@@ -1,0 +1,62 @@
+{
+  "id": 1,
+  "name": "Business TEST",
+  "shops": [
+    {
+      "id": 1,
+      "schedules": [
+        {
+          "openFrom": "12:00",
+          "openTo": "14:54"
+        },
+        {
+          "openFrom": "10:00",
+          "openTo": "11:32"
+        },
+        {
+          "openFrom": "12:41",
+          "openTo": "13:00"
+        },
+        {
+          "openFrom": "16:00",
+          "openTo": "20:30"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "schedules": [
+        {
+          "openFrom": "11:58",
+          "openTo": "13:54"
+        },
+        {
+          "openFrom": "09:20",
+          "openTo": "10:25"
+        },
+        {
+          "openFrom": "16:30",
+          "openTo": "21:30"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "schedules": [
+        {
+          "openFrom": "21:31",
+          "openTo": "23:12"
+        },
+        {
+          "openFrom": "10:30",
+          "openTo": "10:40"
+        },
+        {
+          "openFrom": "13:58",
+          "openTo": "16:00"
+        }
+      ]
+    }
+  ]
+}
+
